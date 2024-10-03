@@ -8,11 +8,11 @@
     <version>2.7.3</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.bouali</groupId>
+  <groupId>com.oussama</groupId>
   <artifactId>banking</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>banking</name>
-  <description>Banking application for the best students</description>
+  <description>Banking application</description>
   <properties>
     <java.version>17</java.version>
   </properties>
